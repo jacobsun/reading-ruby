@@ -6,11 +6,6 @@
 
 * [Ruby 3](whats-new/ruby-3.md)
 
-## Getting Started
-
-* [Basic Syntax](getting-started/basic-syntax.md)
-* [Conventions and Styles](getting-started/conventions-and-styles.md)
-
 ## guide
 
 * [Basics](guide/basics/README.md)
